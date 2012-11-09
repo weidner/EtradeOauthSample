@@ -9,4 +9,4 @@ This is a simple C# console app with the BaseOauthRepository class written by je
 
 I know a lot of people have been looking for a simple example for this.  jejernig helped me, so I hope this helps others.
 
-The project is in ZIP format in the downloads area.  (I'm still learning gothub)
+The project is in ZIP format in the downloads area.  (I'm still learning github)
